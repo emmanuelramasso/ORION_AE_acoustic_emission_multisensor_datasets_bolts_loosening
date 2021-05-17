@@ -1,4 +1,4 @@
-![alt text](orion_logo.png)
+![alt text](orion_logo2.png)
 
 # About
 
