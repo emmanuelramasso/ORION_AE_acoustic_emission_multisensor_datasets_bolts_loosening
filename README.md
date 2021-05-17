@@ -2,7 +2,8 @@
 
 # About
 
-Here are some codes to read the ORION-AE datasets available on the following DATAVERSE repository: https://doi.org/10.7910/DVN/FBRDU0. It relates to a test rig called "ORION-AE" dedicated to the generation of multisensor acoustic emission datasets reflecting supervised untightening of bolts in a jointed vibrating structure.
+Here are some codes to read the ORION-AE datasets available on the following DATAVERSE repository: https://doi.org/10.7910/DVN/FBRDU0. 
+It relates to a test rig called "ORION-AE" dedicated to the generation of multisensor acoustic emission datasets reflecting supervised untightening of bolts in a jointed vibrating structure.
 
 Experiments were designed to reproduce the loosening phenomenon observed in aeronautics, automotive or civil engineering structures where parts are assembled together by means of bolted joints. The bolts can indeed be subject to self-loosening under vibrations. Therefore, it is of paramount importance to develop sensing strategies and algorithms for early loosening estimation. The test rig was specifically designed to make the vibration tests as repeatable as possible.
 
