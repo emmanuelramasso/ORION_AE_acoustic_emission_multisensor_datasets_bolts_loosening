@@ -1,8 +1,5 @@
 ![alt text](orion_logo.png)
 
-# ORION_AE_acoustic_emission_multisensor_datasets_bolts_loosening
-ORION-AE: Multisensor acoustic emission datasets reflecting supervised untightening of bolts in a jointed vibrating structure
-
 # About
 Some codes to read the ORION-AE datasets available on the following DATAVERSE repository: https://doi.org/10.7910/DVN/FBRDU0.
 
