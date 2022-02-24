@@ -8,7 +8,7 @@ ORION is a test rig called used for vibration damping studies developed by [Gaë
 
 Experiments were designed to reproduce the loosening phenomenon observed in aeronautics, automotive or civil engineering structures where parts are assembled together by means of bolted joints. The bolts can indeed be subject to self-loosening under vibrations. Therefore, it is of paramount importance to develop sensing strategies and algorithms for early loosening estimation. The test rig was specifically designed to make the vibration tests as repeatable as possible.
 
-The dataset ORION-AE is made of a set of time-series measurements obtained by untightening a bolt with seven different levels. The data have been sampled at 5 MHz on four different sensors, including three permanently attached acoustic emission sensors in contact with the structure, and one laser (contactless) measurement apparatus. This dataset can thus be used for performance benchmarking of supervised, semi-supervised or unsupervised learning algorithms, including deep and transfer learning for time-series data, with possibly seven classes. This dataset may also be useful to challenge denoising methods or wave-picking algorithms, for which the vibrometer measurements can be used for validation. [For more details, see...](https://doi.org/10.7910/DVN/FBRDU0)
+The dataset ORION-AE is made of a set of time-series measurements obtained by untightening a bolt with seven different levels. The data have been sampled at 5 MHz on four different sensors, including three permanently attached acoustic emission sensors in contact with the structure, and one laser (contactless) measurement apparatus. This dataset can thus be used for performance benchmarking of supervised, semi-supervised or unsupervised learning algorithms, including deep and transfer learning for time-series data, with possibly seven classes. This dataset may also be useful to challenge denoising methods or wave-picking algorithms, for which the vibrometer measurements can be used for validation. 
 
 # Details of the folders and files
 
@@ -20,3 +20,5 @@ There is 1 folder per campaign, each composed of 7 subfolders corresponding to 7
 
 Note that the measurements are stored in mV.
 The Matlab codes in this Github repo are provided to read the files and more is to come.
+
+[For more details, see the paper](https://arxiv.org/abs/2111.06322)
