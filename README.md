@@ -22,3 +22,7 @@ Note that the measurements are stored in mV.
 The Matlab codes in this Github repo are provided to read the files and more is to come.
 
 [For more details, see the paper](https://arxiv.org/abs/2111.06322)
+
+# Some features
+
+Some features extracted from these data are available at [the following url](https://drive.google.com/drive/folders/1H413RxYu4ya7YMEgF_lTh_fHr7flvvOO?usp=sharing). For more information see [this paper](https://arxiv.org/abs/2108.11211).
